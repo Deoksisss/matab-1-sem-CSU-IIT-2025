@@ -150,6 +150,16 @@
               "icon": "lucide-list",
               "title": "Структура Добро пожаловать"
             }
+          },
+          {
+            "id": "2047d1f31f2ff6cb",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
           }
         ]
       }
